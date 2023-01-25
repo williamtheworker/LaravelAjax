@@ -1,0 +1,4 @@
+-run "composer update"
+-create a database named "db_laravel_ajax"
+-configure the .env to connect to "db_laravel_ajax"
+-run "php artisan serve"

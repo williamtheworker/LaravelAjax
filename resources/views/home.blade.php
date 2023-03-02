@@ -35,6 +35,7 @@
                 </table>
             </div>
         </div>
+        <!-- Feature comment -->
 
         <!-- Modal -->
         <div class="modal fade" id="myModal" role="dialog">

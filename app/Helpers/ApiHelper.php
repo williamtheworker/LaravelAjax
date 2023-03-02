@@ -4,6 +4,7 @@ namespace App\Helpers;
 
 class ApiHelper {
     // Test comment
+    // Emergency comment
     static function curl_to_url ($url, $data) {
         $ch = curl_init();
 

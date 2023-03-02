@@ -6,6 +6,8 @@ class ApiHelper {
     // Test comment
     // Emergency comment
     // Another emergency comment
+    // I'll be adding more comments
+    // Even Further beyond
     static function curl_to_url ($url, $data) {
         $ch = curl_init();
 

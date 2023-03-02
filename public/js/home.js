@@ -119,6 +119,7 @@ $(document).ready(function() {
 
     $('.crud-modal-footer').on('click', '#save-provider', () => {
         console.log('this is a test')
+        console.log('this is additional test')
         if($('.input-name').val() == '' || $('.input-url').val() == '') {
             alert('Please fill-up the empty fields');
             return false;

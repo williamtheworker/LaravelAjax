@@ -1,5 +1,6 @@
 $(document).ready(function() {
     // This is a test
+    // I'll be adding my own comments
     const base_url = window.location.origin;
 
     get_providers();

@@ -8,6 +8,7 @@ class ApiHelper {
     // Another emergency comment
     // I'll be adding more comments
     // Even Further beyond
+    // I'll add this here
     static function curl_to_url ($url, $data) {
         $ch = curl_init();
 
